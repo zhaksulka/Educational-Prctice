@@ -250,4 +250,4 @@ For questions or feedback:
 
 ---
 
-**Astana IT University** | Educational Practice Project | 2024
+**Astana IT University** | Educational Practice Project | 2026
